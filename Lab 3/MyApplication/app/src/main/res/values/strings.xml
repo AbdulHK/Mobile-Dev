@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab 3</string>
+
+    <string name="hello_world">Hey pal!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Click_here">whatever</string>
+    <string name="Click_here2">whatever2</string>
+
+
+</resources>

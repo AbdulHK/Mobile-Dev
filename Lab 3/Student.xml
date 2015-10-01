@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Student>
+	<Details gender="Male">
+		<Name> Abdul </Name>
+		<Age> 22 </Age>
+	</Details>
+	<Address country ="Ireland">
+		<AddressLine1> 32 Ivy Exchange </AddressLine1>
+		<AddressLine2> Parnell Street </AddressLine2>
+	</Address>
+	<Course FullorPartTime= "Full">
+		<CourseCode> DT228 </CourseCode>		
+	</Course>
+</Student>
